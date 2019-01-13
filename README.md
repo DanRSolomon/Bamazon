@@ -1,3 +1,5 @@
+# BAMAZON
+
 Bamazon is a student project to create an Amazon-like storefront using Node.js to update a product information database in MySQL. It is a command line app that requires the MySQL and Inquirer npm packages. Anyone interested in exploring how the code works is welcome to clone the repository. One thing you will need to do for yourself is create your own MySQL database. You are welcome to use my schema.sql and seeds.sql to build the database, but you will need to provide your own MySQL password on line 8 of the bamazonCustomer.js file.
 
 Below are images showing how the app is used.
